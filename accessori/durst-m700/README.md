@@ -1,4 +1,4 @@
-# Prototipo adattatore filtri ilford 8.9 per DANOFLI 12x12
+# Prototipo adattatore filtri ILFORD 8.9 per DANOFLI 12x12
 
 L'adattatore è leggermente più grande del DANOFLI
 (circa 1.5mm nel lato lungo) e portato a misura
